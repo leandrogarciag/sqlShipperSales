@@ -2,8 +2,8 @@
 Title: SHIPPER SUMMARY
 Author: William Leandro Garcia Guerrero
 Fecha : 25/04/2023
-Descripción: Se crea una tabla temporal que contiene la información de shipperid,orderid, el costo total de la orden sin descuento(OrderCost)
-y el número total de products enviados en cada orden (ItemsShipped). Luego se unen las tablas y se agrupan para mostrar la salida esperada
+DescripciÃ³n: Se crea una tabla temporal que contiene la informaciÃ³n de shipperid,orderid, el costo total de la orden sin descuento(OrderCost)
+y el nÃºmero total de products enviados en cada orden (ItemsShipped). Luego se unen las tablas y se agrupan para mostrar la salida esperada
 
 */
 USE StoreSample;
